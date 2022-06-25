@@ -1,0 +1,160 @@
+<html>
+ <head>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+       <style>
+                  header{
+                     
+                     color:green;
+                     background-color:red;
+                     font-family:Segoe Print;
+                     TEXT-SHADOW:2PX 2PX ; 
+                     
+                     text-align:center;
+                     border-style:double;
+                     
+                    }
+                   .nav{
+                     font-size:110%;
+                     
+                     word-spacing:230PX;
+                     text-align:center;
+                     
+                     
+                  
+                     }
+
+                     .section
+                           { 
+                     color:#black;
+                      font-size:18;
+                     background-color:#00ffcc;
+                     font-family:Modern No. 20;
+                     
+                     text-align:center;
+                             
+                           }
+
+
+                    
+                     .footer { 
+                      background-color:#4DFFFF;
+                      
+                      border-style:dotted;
+                             
+                           }
+                        
+                    marquee
+                            {
+                       color:#ffff33;
+                      font-size:20;
+                      background-color:red;
+                     border-style:double;
+                     font-family:Kristen ITC;
+                        }
+
+                    .end
+                           { 
+                     
+                      font-size:15;
+                     background-color:lightblue;
+                     font-family:Arial;
+                     
+                     text-align:center;
+                             
+                           }
+                    
+                             
+                     h5
+                           { 
+                      
+                     
+                     
+                    
+                     border-width:px;
+                     text-align:CENTER;
+                             }
+
+                    .logo{
+                     color:#red;
+                     font-size:110%;
+                     
+                     background-color:white;
+                     opacity:0.5;
+                    
+                      
+                     word-spacing:230PX;
+                     text-align:center;
+                     
+                  
+                     }
+                      
+                      .button
+                        {
+                       background-color:#FF00FF;
+                      text-decoration:non;
+                       
+                      }
+                      .button2{
+                        
+                       background-color:#FFFF00;
+                       text-decoration:non;
+                       }
+                       
+                      
+
+                  
+                   
+        </style>
+        </head>
+
+<body bgcolor="lightgray">
+ 
+<hr size="10px">
+<header>
+<p><h1>APNA RAJASTHAN</h1></p>
+</header>
+
+<div class="footer">
+
+
+<div class="logo">
+<button class="button button2">
+
+<a href="https://www.facebook.com/people/Vinod-Suthar/100035527028178/">
+
+<i class="fa fa-facebook" style="font-size:46px;"></i></a>
+</button>
+
+<button class="button button2">
+<a href="https://www.instagram.com/vksuthar900/">
+<i class="fa fa-instagram" style="font-size:48px;"></i></a>
+</button>
+
+
+<button class="button button2">
+<a href="https://github.com/vksuthar900">
+<i class="fa fa-github" style="font-size:48px;;"></i></a>
+</button>
+
+
+</div>
+
+
+
+
+                    
+ 
+<H5>
+THANKS FOR VISIT<br>
+<br>
+
+<a href="https://vksuthar900.github.io/vkdeveloper-/"TARGET="BLANK">©BY VKDEVLOPER STDIO</H5></a>
+
+
+
+</div>
+
+</body>
+
+</html>
